@@ -16,7 +16,7 @@ void main() {
   printArray(data);
 }
 
-//Get the maximum number of an array using for loop
+//Get the maximum number of an array using for loop.
 void getMaxNumber(List<int> numbers) {
   if (numbers.length < 2) {
     print("The length of the array provided must be above 1");
